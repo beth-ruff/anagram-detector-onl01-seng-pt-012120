@@ -6,7 +6,8 @@ class Anagram
   end
   
   def match
-    
+    array.each do |word|
+      
   end
   
 end
